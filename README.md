@@ -34,5 +34,5 @@
 
 ### GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salembht&theme=gruvbox_duo&hide_border=true)](https://github.com/smaalfadly3)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salembht&theme=gruvbox_duo&hide_border=true)](https://github.com/salembht)
 
