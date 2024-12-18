@@ -26,7 +26,7 @@
 </p>
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salembht&count_private=true&show_icons=true&hide_title=true&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salembht&count_private=false&show_icons=true&hide_title=true&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salembht&layout=compact&hide_title=true&hide_border=true)
 
 ### Trophies
