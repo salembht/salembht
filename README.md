@@ -35,21 +35,4 @@
 ### GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salembht&theme=gruvbox_duo&hide_border=true)](https://github.com/salembht)
 
-### Dynamic Repositories
-<script>
-  async function fetchRepos() {
-    const response = await fetch('https://api.github.com/users/salembht/repos');
-    const repos = await response.json();
-    const repoList = document.getElementById('repo-list');
 
-    repos.forEach(repo => {
-      const listItem = document.createElement('li');
-      listItem.textContent = repo.name;
-      repoList.appendChild(listItem);
-    });
-  }
-
-  fetchRepos();
-</script>
-
-<ul id="repo-list"></ul>
