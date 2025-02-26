@@ -35,7 +35,6 @@
 </div>
 
 ###
-
 ### Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/username=salembht&theme=flat&no-frame=true&margin-w=30)
 
