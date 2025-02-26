@@ -36,7 +36,7 @@
 
 ###
 ### Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/username=salembht&theme=flat&no-frame=true&margin-w=30)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=salembht&theme=flat&no-frame=true&margin-w=30)
 
 ### GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salembht&theme=gruvbox_duo&hide_border=true)](https://github.com/salembht)
