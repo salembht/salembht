@@ -41,4 +41,4 @@
 ### GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salembht&theme=gruvbox_duo&hide_border=true)](https://github.com/salembht)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=salembht&theme=dark)](https://git.io/streak-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=salembht&layout=compact)
